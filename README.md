@@ -45,7 +45,7 @@ On average, this task can be completed in 2-3 hours, but you are welcome to spen
 Project Specification:
 Below is the prototype for a web application that will process the date of birth (in dd/mm/yyyy format) and display the age. A user can input the numbers into the application and click on a calculate button to see the result.
 
-[Image]
+![Task 3](/imgs/img.png)
  
 ### Task:
 Write test cases for the application. These may include the expected results or be a simple checklist. 
