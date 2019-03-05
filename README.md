@@ -1,4 +1,4 @@
-# Quality Assurance – Gumtree Technical Test
+# Technical Assignment for Quality Assurance
 
 ## What we are looking for:
 ### Coding tasks:
