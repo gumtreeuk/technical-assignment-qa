@@ -55,7 +55,7 @@ On average, this task can be completed in 2-3 hours, but you are welcome to spen
 
 ## Task 4
 ### Unit Testing
-We understand unit testing is not traditionally the job of a QA, however, in our company, we believe in collaborating closely with developers, taking them through the path towards a test first approach. This includes coaching ourselves to be able to coach them on how to improve the quality of their own tests. Our team goal is to ensure our test automation strategy follows the [Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) to ensure we have a quick turnaround on test results and therefore are able to release faster, with high quality.
+We understand unit testing is not traditionally the job of a QA, however, in our company, we believe in collaborating closely with developers, taking them through the path towards a test first approach. This includes coaching ourselves to be able to coach them on how to improve the quality of their own tests. Our team goal is to ensure our test automation strategy follows the [Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) to ensure we have a quicker feedback on overall code quality and therefore are able to release faster, with higher quality.
 
 Here are our resource recommendations:
 * [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) – Martin Fowler
