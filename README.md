@@ -14,10 +14,10 @@
 ### Test Case Generation
 Based on the project specification below, generate with a set of test cases. We're looking for a structured approach, where you leverage [test design techniques](https://testautomationresources.com/software-testing-basics/software-test-design-techniques/) and how you prioritise your tests. The test cases also may include the expected results or be a simple checklist such as:
 * Test Case 1 - Spelling and Grammar:
-** All spelling is correct
-** All grammar is correct
-** Words correctly describe the purpose of the application
-** …
+  * All spelling is correct
+  * All grammar is correct
+  * Words correctly describe the purpose of the application
+  * …
 
 ### Project Specification:
 Below is the prototype for a web application that will process the date of birth (in dd/mm/yyyy format) and display the age. A user can input the numbers into the application and click on a calculate button to see the result.
@@ -66,4 +66,4 @@ Here are our resource recommendations:
 
 On average, this task can be completed in 2-3 hours, once you have understood the unit testing concepts, but you are welcome to spend more time on it to submit a better quality code. Please not that you won't be required to use mocks for every unit, so please use your judgement.
 
-**Exercise Link TBC
+**Exercise Link TBC**
