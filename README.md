@@ -16,7 +16,7 @@ The tasks below are simple and therefore we'd like simple solutions where you sh
   * If you are applying for permanent position: Java + Cucumber + JUnit/TestNG or Scala + ScalaTest.
   * If you are applying for contract position: Scala + ScalaTest.
 
-## QA Assignment  
+## Quality Engineer Assignment  
 ## Task 1: Functional E2E Automation
 Functional automation for web UI testing using Selenium Web Driver.
 * Open Google and perform a search for ‘Cars in London’.
