@@ -7,7 +7,7 @@ thinking process.
 ###### Example 1
 You are asked here to only write Acceptance Criteria based on the interface of AdvertService.
 
-This service contains 3 different methods/endpoints. Please write tests in sudo code (no need to be too precise, as you 
+This service contains 3 different methods/endpoints. Please write tests in pseudo code (no need to be too precise, as you 
 will not be executing any piece of code for this part. We are more interested in your critical thinking process.
 
 Please find below a UML representation of this class.  
